@@ -1,0 +1,16 @@
+{
+    "piezas" : [{
+        "id" : 1,
+      "nombre": "AMD Ryzen 5 3600",
+      "precio": 249.90,
+      "imagen": "https://img.pccomponentes.com/articles/21/213019/5-3.jpg",
+      "stock": false
+    },
+    {
+        "id" : 2,
+      "nombre": "MSI B550i",
+      "precio": 179.90,
+      "imagen": "https://img.pccomponentes.com/articles/30/302204/1849-msi-b550-a-pro.jpg",
+      "stock": true
+    }]
+}
